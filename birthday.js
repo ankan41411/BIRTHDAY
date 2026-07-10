@@ -1,5 +1,7 @@
 const messages = [
 
+ "Wo mujhe tumhe kuch batana hai you know 👉👈",
+
  "FAAAAAaaaaahhhhhh",
 
 "HMM To aageyi Web pe ",
@@ -24,7 +26,9 @@ const messages = [
 
 "🎈 Have the happiest birthday ever!",
 
-" KHATAM CHALO NIKLO AAB"
+" KHATAM CHALO NIKLO AAB",
+
+ "Ra Khatam bola naa firse click kiya"
  
 
 
