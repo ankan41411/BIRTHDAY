@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            background: linear-gradient(135deg,#ff4b91,#6c63ff);
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            overflow: hidden;
+        }
+
+        .container {
+            text-align: center;
+            max-width: 700px;
+            padding: 30px;
+        }
+
+        h1 {
+            font-size: 55px;
+            margin-bottom: 20px;
+        }
+
+        #meme {
+            font-size: 25px;
+            margin: 30px 0;
+            min-height: 80px;
+            color: yellow;
+        }
+
+        button {
+            padding: 15px 35px;
+            font-size: 18px;
+            border: none;
+            border-radius: 40px;
+            cursor: pointer;
+        }
+
+        .confetti {
+            position: absolute;
+            width: 10px;
+            height: 10px;
+            animation: fall linear forwards;
+        }
+
+        @keyframes fall {
+            from {
+                transform: translateY(-100px);
+            }
+
+            to {
+                transform: translateY(110vh) rotate(720deg);
+            }
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>🎂 Happy Birthday HER_NAME! 🎉</h1>
+
+        <p>Hope you have an amazing day!</p>
+
+        <div id="meme">
+            Click the button 😂
+        </div>
+
+        <button onclick="surpriseMe()">
+            🎁 Surprise
+        </button>
+
+    </div>
+
+    <!-- JavaScript -->
+    <script src="birthday.js"></script>
+
+</body>
+
+</html>
