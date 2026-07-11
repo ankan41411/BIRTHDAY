@@ -35,11 +35,8 @@ const messages = [
 
  "Ra Khatam bola naa firse click kiya",
 
- " KIYA YRR "
- 
-
-
-];
+ " ADVICE:- JIVAN MAI EK HI GALTI KO BAR BAR MAT DHORANA, JAISE IS BUTTON KO CLICK KIYA ",
+ ];
 
 let currentIndex = 0;
 
