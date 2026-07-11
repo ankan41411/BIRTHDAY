@@ -1,5 +1,6 @@
 const messages = [
-
+" EK BAR DAKH K MAN NEHI BHARA KIYA FIRSE AAGEYI"
+ 
 "HMM To aageyi Web pe ",
 
  "FAAAAAaaaaahhhhhh",
@@ -31,6 +32,8 @@ const messages = [
 " KHATAM CHALO NIKLO AAB",
 
  "Ra Khatam bola naa firse click kiya"
+
+ " KIYA YRR "
  
 
 
