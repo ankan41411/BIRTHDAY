@@ -1,5 +1,7 @@
 const messages = [
 " EK BAR DAKH K MAN NEHI BHARA KIYA FIRSE AAGEYI",
+
+" DAKHLO FIRSE SAME HI CHIZ AANE WALA HAI",
  
 "HMM To aageyi Web pe ",
 
